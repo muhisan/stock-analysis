@@ -18,7 +18,7 @@ The refactoring has been successfully made, below are the results before and aft
 
 * After refactoring : we can see a lot of improvement regarding execution time
 
-![2017 After refactoring] (https://github.com/muhisan/stock-analysis/blob/main/Resources/2017%20after%20refactoring.png)
+![2017 After refactoring] (https://github.com/muhisan/stock-analysis/blob/5413bb1bf03d0d62bd2b2973a2dba6e742831efe/Resources/2017%20after%20refactoring.png)
 
 2. For 2018 :
 
