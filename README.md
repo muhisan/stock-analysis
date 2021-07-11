@@ -2,7 +2,7 @@
 # Overview of Project
 ## Purpose of this analysis.
 
-  The analysis for a dozen stocks that Steve presented us is almost finished. Just by clicking a button, Steve is able to present to his parents the most profitable stocks over  two years 2017 and 2018. Now, Steve would like to expand the analysis on any number of stocks in recent years. In addition, he is concerned that this new analysis runs longer than the first one, that’s why he would also like us to review the execution time for our new analysis.
+  The analysis for a dozen stocks that Steve presented to us is almost finished. Just by clicking a button, Steve is able to present to his parents the most profitable stocks over  two years 2017 and 2018. Now, Steve would like to expand the analysis on any number of stocks in recent years. In addition, he is concerned that this new analysis runs longer than the first one, that’s why he would also like us to review the execution time for our new analysis.
 
   To do that, we’re going to refract the first code so that we can do the same analysis on any number of stocks and make the code work faster as Steve asked us to.
 
