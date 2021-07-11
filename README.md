@@ -10,25 +10,25 @@
 
 The refactoring has been successfully made, below are the results before and after refactoring our code.
 
-1. For 2017 :
+**For 2017 :**
 
 * Before refactoring
 
-![2017 Before refactoring] (https://github.com/muhisan/stock-analysis/blob/main/Resources/2017%20before%20refactoring.png)
+![2017 Before refactoring](https://github.com/muhisan/stock-analysis/blob/main/Resources/2017%20before%20refactoring.png)
 
-* After refactoring : we can see a lot of improvement regarding execution time
+* After refactoring : it is clear that the execution time has decreased a lot.
 
-![2017 After refactoring] (https://github.com/muhisan/stock-analysis/blob/5413bb1bf03d0d62bd2b2973a2dba6e742831efe/Resources/2017%20after%20refactoring.png)
+![2017 After refactoring](https://github.com/muhisan/stock-analysis/blob/main/Resources/2017%20after%20refactoring.png)
 
-2. For 2018 :
+**For 2018 :**
 
 * Before refactoring
 
-![2018 Before refactoring] (https://github.com/muhisan/stock-analysis/blob/main/Resources/2018%20before%20refactoring.png)
+![2018 Before refactoring](https://github.com/muhisan/stock-analysis/blob/main/Resources/2018%20before%20refactoring.png)
 
-* After refactoring : we can see a lot of improvement regarding execution time
+* After refactoring : the same execution time changed 
 
-![2018 After refactoring] (https://github.com/muhisan/stock-analysis/blob/main/Resources/2018%20after%20refactoring.png)
+![2018 After refactoring](https://github.com/muhisan/stock-analysis/blob/main/Resources/2018%20after%20refactoring.png)
 
 ## Summary
 #### Advantages or Disadvantages of refactoring code
